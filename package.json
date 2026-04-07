@@ -1,0 +1,24 @@
+{
+  "name": "namstenode",
+  "version": "1.0.0",
+  "description": "This is my node js learning repository",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhsakshi098/NAMASTENODE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhsakshi098/NAMASTENODE/issues"
+  },
+  "homepage": "https://github.com/singhsakshi098/NAMASTENODE#readme",
+  "dependencies": {
+    "mongodb": "^7.1.1"
+  }
+}
